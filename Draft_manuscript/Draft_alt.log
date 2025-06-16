@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.2)  16 JUN 2025 12:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.2)  16 JUN 2025 12:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -707,21 +707,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [4] [5] [6] [7] [8] [9] (./Draft_alt.aux)
 Package rerunfilecheck Info: File `Draft_alt.out' has not changed.
-(rerunfilecheck)             Checksum: B02B17CB3B59098ADDA7009BA371C502;7997.
+(rerunfilecheck)             Checksum: C38B43674ACACE2D58EDB4E9C6F45591;8641.
  ) 
 Here is how much of TeX's memory you used:
- 27211 strings out of 476025
- 550234 string characters out of 5790018
+ 27214 strings out of 476025
+ 550286 string characters out of 5790018
  1864388 words of memory out of 5000000
- 47207 multiletter control sequences out of 15000+600000
+ 47209 multiletter control sequences out of 15000+600000
  527245 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,14n,89p,550b,1416s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,14n,89p,814b,1416s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on Draft_alt.pdf (9 pages, 198267 bytes).
+Output written on Draft_alt.pdf (9 pages, 199184 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
- 47 named destinations out of 1000 (max. 500000)
- 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 296 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 309 words of extra memory for PDF output out of 10000 (max. 10000000)
 
