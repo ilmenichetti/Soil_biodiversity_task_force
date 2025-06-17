@@ -1,0 +1,4 @@
+
+- One aim of the manuscript: 
+Connecting the modeling community (big picture, consequences and implications for C cycling) with the experimentalists (small scale).
+This is one of the difficulties in all manuscript I read that talk about microbes: experimentalists usually do noy ask if they do matter or not, and the answer is not trivia. There are usually emergent kinetics in SOC decay that are very stable, and in most cases in my experience microbial communities just DO NOT matter. But not always.
